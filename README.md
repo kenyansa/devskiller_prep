@@ -1,3 +1,5 @@
+# Instructions
+## Canonical Test:
 We'd like you to write a calculator to perform basic arithmetic, but using an alternative syntax for writing the expressions.
 
 In this alternative notation, the operators precede the operands. For example while in traditional notation we might write 3 + 4, instead we would write + 3 4.
