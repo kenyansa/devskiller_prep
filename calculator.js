@@ -1,4 +1,4 @@
-export function calculate (expression) {
+ function calculate (expression) {
     const tokens = expression.trim().split(/\s+/); // Split the expression by spaces
     const stack = [];
     
